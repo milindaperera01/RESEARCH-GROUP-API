@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<artifacts>
+  <artifact name="resources_datamapper_vision-publication-mapper_vision-publication-mapper_dmc" groupId="com.microintegrator.projects" version="1.0.0" type="registry/resource" serverRole="EnterpriseIntegrator">
+    <item>
+      <file>vision-publication-mapper.dmc</file>
+      <path>/_system/governance/mi-resources/datamapper/vision-publication-mapper</path>
+      <mediaType>text/plain</mediaType>
+      <properties></properties>
+    </item>
+  </artifact>
+  <artifact name="resources_datamapper_vision-publication-mapper_vision-publication-mapper_inputSchema_json" groupId="com.microintegrator.projects" version="1.0.0" type="registry/resource" serverRole="EnterpriseIntegrator">
+    <item>
+      <file>vision-publication-mapper_inputSchema.json</file>
+      <path>/_system/governance/mi-resources/datamapper/vision-publication-mapper</path>
+      <mediaType>text/plain</mediaType>
+      <properties></properties>
+    </item>
+  </artifact>
+  <artifact name="resources_datamapper_vision-publication-mapper_vision-publication-mapper_outputSchema_json" groupId="com.microintegrator.projects" version="1.0.0" type="registry/resource" serverRole="EnterpriseIntegrator">
+    <item>
+      <file>vision-publication-mapper_outputSchema.json</file>
+      <path>/_system/governance/mi-resources/datamapper/vision-publication-mapper</path>
+      <mediaType>text/plain</mediaType>
+      <properties></properties>
+    </item>
+  </artifact>
+  <artifact name="resources_datamapper_details-mapper_details-mapper_dmc" groupId="com.microintegrator.projects" version="1.0.0" type="registry/resource" serverRole="EnterpriseIntegrator">
+    <item>
+      <file>details-mapper.dmc</file>
+      <path>/_system/governance/mi-resources/datamapper/details-mapper</path>
+      <mediaType>text/plain</mediaType>
+      <properties></properties>
+    </item>
+  </artifact>
+  <artifact name="resources_datamapper_details-mapper_details-mapper_inputSchema_json" groupId="com.microintegrator.projects" version="1.0.0" type="registry/resource" serverRole="EnterpriseIntegrator">
+    <item>
+      <file>details-mapper_inputSchema.json</file>
+      <path>/_system/governance/mi-resources/datamapper/details-mapper</path>
+      <mediaType>text/plain</mediaType>
+      <properties></properties>
+    </item>
+  </artifact>
+  <artifact name="resources_datamapper_details-mapper_details-mapper_outputSchema_json" groupId="com.microintegrator.projects" version="1.0.0" type="registry/resource" serverRole="EnterpriseIntegrator">
+    <item>
+      <file>details-mapper_outputSchema.json</file>
+      <path>/_system/governance/mi-resources/datamapper/details-mapper</path>
+      <mediaType>text/plain</mediaType>
+      <properties/>
+    </item>
+  </artifact>
+</artifacts>
